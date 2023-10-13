@@ -260,7 +260,6 @@
   display: grid;
   /* grid-template-columns: 430px 1fr; */
   grid-template-columns: 1fr 2fr;
-  grid-template-rows: repeat(2, 240px);
   /* grid-template-areas:
     "about__logo about__title"
     "1 about__text"; */
